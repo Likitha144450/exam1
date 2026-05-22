@@ -52,13 +52,20 @@ Ecosystem, food chain
 Environmental degradation and conservation
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 The making of the Constitution of India was a historic and transformative process that reflected the aspirations, diversity, and democratic spirit of the Indian people. The Constituent Assembly, formed under the Cabinet Mission Plan of 1946, was entrusted with the task of framing a Constitution for an independent India. The Constitution-makers carefully studied constitutional systems from across the world and engaged in extensive debates and discussions to create a framework suited to India’s unique social, cultural, and political conditions. The process involved the participation of eminent leaders, jurists, administrators, and visionaries who sought to establish a sovereign, democratic, republic founded on justice, liberty, equality, and fraternity.
 
 =======
+=======
+>>>>>>> Stashed changes
 Certificate of Physical and Human Geography by Goh Cheng Leong
 Objective Indian and World Geography by Majid Husain
 Geography of India by Majid Hussain
 World Geography by Majid Hussain
+<<<<<<< Updated upstream
+NCERT Books on Geography
+>>>>>>> Stashed changes
+=======
 NCERT Books on Geography
 >>>>>>> Stashed changes
