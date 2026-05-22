@@ -10,10 +10,18 @@ Forests in India - Types, Characteristics and Examples
 
 
 
+Geography Notes For UPSC - Geography is a crucial 
+subject in the IAS exam, it is covered in both the IAS Prelims and Mains papers. Geography for UPSC includes both Indian and global geography. Geography is distinct from other science subjects, but it is closely related to them. This subject collects and synthesizes data from all-natural and social sciences. Furthermore, the Geography Notes for UPSC will be useful to candidates during their last-minute exam preparations.
+
+Geography Notes For UPSC - Geography is a crucial 
+subject in the IAS exam, it is covered in both the IAS Prelims and Mains papers. Geography for UPSC includes both Indian and global geography. Geography is distinct from other science subjects, but it is closely related to them. This subject collects and synthesizes data from all-natural and social sciences. Furthermore, the Geography Notes for UPSC will be useful to candidates during their last-minute exam preparations.
+
 <<<<<<< HEAD
 Geography Notes For UPSC - Geography is a crucial 
 subject in the IAS exam, it is covered in both the IAS Prelims and Mains papers. Geography for UPSC includes both Indian and global geography. Geography is distinct from other science subjects, but it is closely related to them. This subject collects and synthesizes data from all-natural and social sciences. Furthermore, the Geography Notes for UPSC will be useful to candidates during their last-minute exam preparations.
 =======
+Geography Notes For UPSC - Geography is a crucial 
+subject in the IAS exam, it is covered in both the IAS Prelims and Mains papers. Geography for UPSC includes both Indian and global geography. Geography is distinct from other science subjects, but it is closely related to them. This subject collects and synthesizes data from all-natural and social sciences. Furthermore, the Geography Notes for UPSC will be useful to candidates during their last-minute exam preparations.
 Geography Notes For UPSC - Geography is a crucial subject in the IAS exam, it is covered in both the IAS Prelims and Mains papers. Geography for UPSC includes both Indian and global geography. Geography is distinct from other science subjects, but it is closely related to them. This subject collects and synthesizes data from all-natural and social sciences. Furthermore, the Geography Notes for UPSC will be useful to candidates during their last-minute exam preparations.
 To understand difficult topics further, it is necessary to lay a solid foundation in Geography by studying NCERT books from Class VIII to Class XII. They assist in covering all of the fundamentals and basics on all topics in a simple and easy language.
 Once you’ve mastered the fundamentals, read the following books to gain a thorough understanding of geography:
@@ -21,4 +29,35 @@ Goh Cheng Lehong’s Physical and Human Geography Certificate, D R Khullar’s I
 Be a wise candidate by attempting to connect the static portion of the Geography subject with current events. There will be a lot of news and editorials that are directly related to the subject. As a result, keeping up with current events through newspapers is unavoidable.
 Maps are an essential part of Geography, and the majority of the questions are either directly or indirectly related to them. As a result, a thorough understanding of Maps (India and World) location is essential in order to score well.
 Make a habit of jotting down important topics while preparing. Having self-prepared notes will save you valuable time in the days leading up to the exam. Also, make it a habit to go over everything you’ve learned on a regular basis. It will assist you in remembering information for a longer period of time.
->>>>>>> feature1
+
+opics	Sub-topics
+Geomorphology	
+Origin of the earth
+Interior of the earth
+Types and characteristics of rocks
+Folding and Faulting
+Volcanoes, earthquakes
+Interior of the earth
+Weathering
+Landforms formed by fluvial, aeolian and glacial actions
+Climatology	
+Atmosphere – structure and composition
+Temperature
+Pressure belts
+Wind systems
+Clouds and types of rainfall
+Cyclones and anti-cyclones
+Major climatic types
+Oceanography	
+Ocean relief
+Temperature, salinity
+Ocean deposits
+Ocean currents
+El Nino and La Nina
+Waves and tides
+Biogeography	
+Soil – origin and types
+Major biomes of the world
+Ecosystem, food chain
+Environmental degradation and conservation
+
